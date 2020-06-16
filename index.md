@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![logo](https://github.com/DannyRyman19/ZombiesGuideWebsite/blob/master/logo.png?raw=true | width=200)
+<img width="200" alt="logo" src="https://github.com/DannyRyman19/ZombiesGuideWebsite/blob/master/logo.png?raw=true">
 
 ## What is the App?
 
