@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<img width="200" alt="logo" src="https://github.com/DannyRyman19/ZombiesGuideWebsite/blob/master/logo.png?raw=true">
 
-## What is the App?
+<img width="200" alt="logo" src="https://github.com/DannyRyman19/ZombiesGuideWebsite/blob/master/logo.png?raw=true">
+## What is the App? 
 
 Zombies guide is an app on iOS and Android that contains helpful guides and tools for all the Treyarch Call of Duty Zombies Maps.
 
