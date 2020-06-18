@@ -1,0 +1,964 @@
+﻿{
+  "Maps": [
+    {
+      "Name": "Shadows Of Evil",
+      "Description": "The first Black Ops 3 Map. Information about shield part locations and a tool for the Sword Step.",
+      "ImageURL": "soe_mapicon.png",
+      "BuidlableShield": true,
+      "ShieldParts": [
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part One, Location One - Swipe for next Location",
+              "ImageDescription": "The first location can be found in the hotel, leaning on the window opposite the perk machine.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_shield_part_one_one.png"
+            },
+            {
+              "ImageLabel": "Part One, Location Two - Swipe for next Location",
+              "ImageDescription": "The second location can be found on the left side of the walkway, outside the hotel containing the perk machine.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_shield_part_one_two.png"
+            },
+            {
+              "ImageLabel": "Part One, Location Three",
+              "ImageDescription": "The third location can be found in the first room next to the stairs that have to be powered on whilst in the 'Beast Mode'.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_shield_part_one_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part Two, Location One - Swipe for next Location",
+              "ImageDescription": "This first location can be found sitting right next to the perk machine.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_shield_part_two_one.png"
+            },
+            {
+              "ImageLabel": "Part Two, Location Two - Swipe for next Location",
+              "ImageDescription": "This second location can be found in the enclosure leading upstairs.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_shield_part_two_two.png"
+            },
+            {
+              "ImageLabel": "Part Two, Location Three",
+              "ImageDescription": "The third location can be found across from the perk machine, leaning against a rail.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_shield_part_two_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part Three, Location One - Swipe for next Location",
+              "ImageDescription": "This first possible location is on the floor in the room connected to the perk room.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_shield_part_three_one.png"
+            },
+            {
+              "ImageLabel": "Part Three, Location Two - Swipe for next Location",
+              "ImageDescription": "This second location is the walkway leading from the Beast Mode shortcut to the perk room. If here, it will be leaning against the crate.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_shield_part_three_two.png"
+            },
+            {
+              "ImageLabel": "Part Three, Location Three",
+              "ImageDescription": "Finally, the bottles could be in the same room as the perk machine, against the wall by the window that is across from said perk machine.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_shield_part_three_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "How to Upgrade",
+              "ImageDescription": "This shield can be upgraded into the Goddard Apparatus, which sustains more damage and has four bursts instead of three. To obtain it, one must kill 10 or more zombies with 12 consecutive bursts with the Rocket Shield.",
+              "ImageURL": null
+            }
+          ]
+        }
+      ],
+      "ShieldURL": "https://levelskip.com/first-person-shooters/How-To-Build-a-Zombie-Shield-in-COD-Black-Ops-3-Zombies",
+      "SimonSays": false,
+      "SimonSaysSteps": null,
+      "SwordStep": true,
+      "HasSafe": false,
+      "HasBomb": false,
+      "HasValve": false,
+      "BuildableWonderWeapon": false,
+      "WonderWeaponParts": null,
+      "WonderWeaponName": null,
+      "WonderWeaponURL": null,
+      "BuildableSecondary": false,
+      "SecondaryParts": null,
+      "SecondaryURL": null,
+      "SecondaryName": null,
+      "Pack-A-PunchSteps": [
+        {
+          "ImageLabel": "Activating Pack a Punch - Step One",
+          "ImageDescription": "While in 'Beast Mode' zap the crane. Leave beast mode and collect the fountain pen that is dropped.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_one.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Two",
+          "ImageDescription": "Go to Niro's Lair and survive the ritual.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_two.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Three",
+          "ImageDescription": "Collect the Gateworm.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_three.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Four",
+          "ImageDescription": "While in 'Beast Mode' melee the box up on the ledge across from the perk machine.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_four.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Five",
+          "ImageDescription": "Leave 'Beast Mode' and collect the Hair Piece.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_five.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Six",
+          "ImageDescription": "Go to the nightclub and survive the ritual.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_six.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Seven",
+          "ImageDescription": "Collect the Gateworm. A margwa will spawn on the second Gateworm pickup.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_seven.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Eight",
+          "ImageDescription": "While in 'Beast Mode', melee the box up on the ledge.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_eight.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Nine",
+          "ImageDescription": "Leave 'Beast Mode' and collect the wrestling belt.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_nine.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Ten",
+          "ImageDescription": "Go to the boxing ring and survive the ritual.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_ten.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Eleven",
+          "ImageDescription": "Collect the Gateworm.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_eleven.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Twelve",
+          "ImageDescription": "While in 'Beast Mode', zap the box in the wall in the canal.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_twelve.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Thirteen",
+          "ImageDescription": "While in 'Beast Mode', melee the box in the canal. Leave 'Beast Mode' and collect the badge.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_thirteen.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Fourteen",
+          "ImageDescription": "Go to the top of the 'Ruby Rabbit' and survive the ritual.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_fourteen.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Fifteen",
+          "ImageDescription": "Collect the Gateworm. A margwa will spawn on the Fourth Gateworm pickup.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_fifteen.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Sixteen",
+          "ImageDescription": "Go through a teleporter to the underground room",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_sixteen.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Seventeen",
+          "ImageDescription": "Go to the back of the room and wait for the wall to be destroyed.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_seventeen.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Eighteen",
+          "ImageDescription": "Place a gateworm in all of the bird bath type statues. Wall run across the walls to get to the other side.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_eighteen.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Nineteen",
+          "ImageDescription": "Begin the final ritual",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_nineteen.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Twenty",
+          "ImageDescription": "PackAPunch can now be used.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/soe_pap_step_twenty.png"
+        }
+      ],
+      "PackAPunchURL": "https://www.youtube.com/watch?v=PAJVuZ5znoQ",
+      "HasWisp": false,
+      "WispSteps": null,
+      "WispURL": null
+    },
+    {
+      "Name": "The Giant",
+      "Description": "The second Black Ops 3 Map. Information about shield part locations, wonder weapon part locations and a tool for the Sword Step.",
+      "ImageURL": "giant_mapicon.png",
+      "BuidlableShield": false,
+      "ShieldParts": null,
+      "ShieldURL": null,
+      "SimonSays": false,
+      "SimonSaysSteps": null,
+      "SwordStep": false,
+      "HasSafe": false,
+      "HasBomb": false,
+      "HasValve": false,
+      "BuildableWonderWeapon": false,
+      "WonderWeaponParts": null,
+      "WonderWeaponName": null,
+      "WonderWeaponURL": null,
+      "BuildableSecondary": false,
+      "SecondaryParts": null,
+      "SecondaryURL": null,
+      "SecondaryName": null,
+      "Pack-A-PunchSteps": [
+        {
+          "ImageLabel": "Activating Pack a Punch - Step One",
+          "ImageDescription": "To activate PackAPunch all 3 telporters need to be activated.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/giant_pap_step_one.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Two",
+          "ImageDescription": "Use the first teleporter located at the back of the map. You have 30 seconds to get back to spawn.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/giant_pap_step_two.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Three",
+          "ImageDescription": "Interact with the teleport pad at spawn.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/giant_pap_step_three.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Four",
+          "ImageDescription": "Use the second teleporter located at the right side of the map. You have 30 seconds to get back to spawn and interact with the teleport pad.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/giant_pap_step_four.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Five",
+          "ImageDescription": "Use the final teleporter located at the left side of the map. You have 30 seconds to get back to spawn and interact with the teleport pad.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/giant_pap_step_five.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Sixe",
+          "ImageDescription": "The door in front of PackAPunch will now be opened.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/giant_pap_step_six.png"
+        }
+      ],
+      "PackAPunchURL": "https://www.youtube.com/watch?v=Sgz1Mm4wFx4",
+      "HasWisp": false,
+      "WispSteps": null,
+      "WispURL": null
+    },
+    {
+      "Name": "Der Eisendrache",
+      "Description": "The third Black Ops 3 Map. Information about shield part locations, ragnarok part locations, wisp locations and a tool for the Simon Says Step.",
+      "ImageURL": "de_mapicon.png",
+      "BuidlableShield": true,
+      "ShieldParts": [
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part One, Location One - Swipe for next Location",
+              "ImageDescription": "The first location can be found on the boxes on the left, after the gate door.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_shield_part_one_one.png"
+            },
+            {
+              "ImageLabel": "Part One, Location Two - Swipe for next Location",
+              "ImageDescription": "The second location can be found by the window on the boxes.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_shield_part_one_two.png"
+            },
+            {
+              "ImageLabel": "Part One, Location Three",
+              "ImageDescription": "The third location can be found up the stairs next to the door that can only be opened by turning on the power.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_shield_part_one_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part Two, Location One - Swipe for next Location",
+              "ImageDescription": "The first location can be found on the right outside of the command center room",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_shield_part_two_one.png"
+            },
+            {
+              "ImageLabel": "Part Two, Location Two - Swipe for next Location",
+              "ImageDescription": "The second location can be found at the bottom of the stairs, near the clock tower.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_shield_part_two_two.png"
+            },
+            {
+              "ImageLabel": "Part Two, Location Three",
+              "ImageDescription": "The third location can be found in the clock tower next to the deceased zombie in the chair.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_shield_part_two_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part Three, Location One - Swipe for next Location",
+              "ImageDescription": "The first location can be found on the outside of the golden rails on the ceiling of the anti gravity room. (Anti Gravity must been enabled)",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_shield_part_three_one.png"
+            },
+            {
+              "ImageLabel": "Part Three, Location Two - Swipe for next Location",
+              "ImageDescription": "The second location can be found on the wall above the packapunch teleport pad. (Anti Gravity must been enabled)",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_shield_part_three_two.png"
+            },
+            {
+              "ImageLabel": "Part Three, Location Three",
+              "ImageDescription": "The third location can be found above the door of the teleporter room.(Anti Gravity must been enabled)",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_shield_part_three_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Upgrade Steps",
+              "ImageDescription": "This shield can be upgraded into the Goddard Apparatus, which sustains more damage and has four bursts instead of three. To obtain it, one must kill 10 or more zombies with 12 consecutive bursts with the Rocket Shield.",
+              "ImageURL": null
+            }
+          ]
+        }
+      ],
+      "ShieldURL": "https://www.youtube.com/watch?v=hlsb7rVKmOs",
+      "SimonSays": true,
+      "SimonSaysSteps": [
+        {
+          "ImageURL": "de_icon_1.png"
+        },
+        {
+          "ImageURL": "de_icon_2.png"
+        },
+        {
+          "ImageURL": "de_icon_3.png"
+        },
+        {
+          "ImageURL": "de_icon_4.png"
+        }
+      ],
+      "SwordStep": false,
+      "HasSafe": true,
+      "HasBomb": false,
+      "HasValve": false,
+      "BuildableWonderWeapon": true,
+      "WonderWeaponParts": [
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Dragon Location One",
+              "ImageDescription": "Feed each dragon around the map. The first Dragon is located after the gate door, next to a mystery box location.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_dragon_one.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Dragon Location Two",
+              "ImageDescription": "The second dragon is at the back of the command center room.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_dragon_two.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Dragon Location Three",
+              "ImageDescription": "The third dragon is in the anti gravity room.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_dragon_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Bow Location",
+              "ImageDescription": "The bow can be picked up behind the knight. The bow can be upgraded itno 4 different elemental types, see the individual upgrades on the previous page for full guides on how to upgrade.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_dragon_four.png"
+            }
+          ]
+        }
+      ],
+      "WonderWeaponName": "Wrath of The Ancients Bow",
+      "WonderWeaponURL": "https://www.youtube.com/watch?v=4uwLSOEVsh8",
+      "BuildableSecondary": true,
+      "SecondaryParts": [
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part One, Step 1 - Swipe for next Step",
+              "ImageDescription": "Go to the rocket launchpad and wait for a testfire launch.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_secondary_part_one_one.png"
+            },
+            {
+              "ImageLabel": "Part One, Step 2 - Swipe for next Step",
+              "ImageDescription": "Interact with the lever and return to inside to the teleporter pad.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_secondary_part_one_two.png"
+            },
+            {
+              "ImageLabel": "Part One, Step 3 - Swipe for next Step",
+              "ImageDescription": "Wait for all three lights to go green and the lever to flip up. Interact with the lever.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_secondary_part_one_three.png"
+            },
+            {
+              "ImageLabel": "Part One, Step 4",
+              "ImageDescription": "4. The part will spawn in the teleporter.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_secondary_part_one_four.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part Two, Step 1 - Swipe for next Step",
+              "ImageDescription": "1. Active the death ray and a piece will spawn in the air.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_secondary_part_two_one.png"
+            },
+            {
+              "ImageLabel": "Part Two, Step 2",
+              "ImageDescription": "2. Use the launch pad to collect the part in the air.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_secondary_part_two_two.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part Three",
+              "ImageDescription": "Kill the first panzer of the map (One spawns on round 12)",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_secondary_part_three_one.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageDescription": "The Ragnarok DG-4 cannot be upgraded.",
+              "ImageURL": null
+            }
+          ]
+        }
+      ],
+      "SecondaryURL": "https://www.ign.com/wikis/call-of-duty-black-ops-3/Ragnarok_DG-4",
+      "SecondaryName": "Ragnarok DG-4",
+      "Pack-A-PunchSteps": [
+        {
+          "ImageLabel": "Activating Pack a Punch - Step One",
+          "ImageDescription": "Start by turning on the power.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_pap_step_one.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Two",
+          "ImageDescription": "Teleport the PackAPunch pieces located next to the death ray, just outside of the power room.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_pap_step_two.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Three",
+          "ImageDescription": "Teleport the PackAPunch pieces located in the undercroft (across from the teleporter room)",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_pap_step_three.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Four",
+          "ImageDescription": "Walk up to the final pieces and the PackAPunch machine will assemble itself",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_pap_step_four.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Five",
+          "ImageDescription": "The PackAPunch will be ready for use. It's worth noting that the PackAPunch Machine will move randomly between the 3 locations.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_pap_step_five.png"
+        }
+      ],
+      "PackAPunchURL": "https://www.youtube.com/watch?v=64ILjYXiwGg",
+      "HasWisp": true,
+      "WispSteps": [
+        {
+          "ImageLabel": "Wisp Location - One",
+          "ImageDescription": "The first location can be found on the clock in the Barracks.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_wisp_location_one.png"
+        },
+        {
+          "ImageLabel": "Wisp Location - Two",
+          "ImageDescription": "The second location can be found on the radio in the Command Center, opposite Speed Cola.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_wisp_location_two.png"
+        },
+        {
+          "ImageLabel": "Wisp Location - Three",
+          "ImageDescription": "The third location can be found on the clock in the Command Center.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_wisp_location_three.png"
+        },
+        {
+          "ImageLabel": "Wisp Location - Four",
+          "ImageDescription": "The fourth location can be found on the wall in power room, just before the exit to the death ray.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_wisp_location_four.png"
+        },
+        {
+          "ImageLabel": "Wisp Location - Five",
+          "ImageDescription": "The fifth location can be found on the globe in Samanthas room.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_wisp_location_five.png"
+        },
+        {
+          "ImageLabel": "Wisp Location - Six",
+          "ImageDescription": "The sixth location can be found on the boxes on the catwalk above Double Tap.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_wisp_location_six.png"
+        },
+        {
+          "ImageLabel": "Wisp Location - Seven",
+          "ImageDescription": "The seventh location can be found on the Car wheel, next to Double Tap.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_wisp_location_seven.png"
+        },
+        {
+          "ImageLabel": "Wisp Location - Eight",
+          "ImageDescription": "The eight location can be found on the desk opposite Quick Revive.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/de_wisp_location_eight.png"
+        }
+      ],
+      "WispURL": "https://www.youtube.com/watch?v=_jhTDgMT_wk"
+    },
+    {
+      "Name": "Zetsubou No Shima",
+      "Description": "The Fourth Black Ops 3 Map. Information about shield part locations, gas mask locations, PackAPunch guide and KT-4 Guide.",
+      "ImageURL": "zns_mapicon.png",
+      "BuidlableShield": true,
+      "ShieldParts": [
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part One, Location One - Swipe for next Location",
+              "ImageDescription": "The first location can be found on the wall next to the blue light.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_shield_part_one_one.png"
+            },
+            {
+              "ImageLabel": "Part One, Location Two - Swipe for next Location",
+              "ImageDescription": "The second location can be found on the wall next to the yellow illuminated window.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_shield_part_one_two.png"
+            },
+            {
+              "ImageLabel": "Part One, Location Three",
+              "ImageDescription": "The third location can be found on the pillar with kuda wall buy on the right side of it.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_shield_part_one_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part Two, Location One - Swipe for next Location",
+              "ImageDescription": "The first location can be found on a tree out the front of the entrance to Lab B.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_shield_part_two_one.png"
+            },
+            {
+              "ImageLabel": "Part Two, Location Two - Swipe for next Location",
+              "ImageDescription": "The second location can be found on a tree at the bottom of the hill up to the main bunker.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_shield_part_two_two.png"
+            },
+            {
+              "ImageLabel": "Part Two, Location Three",
+              "ImageDescription": "The third location can be found on a tree below the drop down from the skull area/challenge podiums.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_shield_part_two_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part Three, Location One - Swipe for next Location",
+              "ImageDescription": "The first location can be found in the back left corner of the AA gun room in the main bunker.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_shield_part_three_one.png"
+            },
+            {
+              "ImageLabel": "Part Three, Location Two - Swipe for next Location",
+              "ImageDescription": "The second location can be found in the back right corner of the AA gun room in the main bunker, on some rubble.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_shield_part_three_two.png"
+            },
+            {
+              "ImageLabel": "Part Three, Location Three",
+              "ImageDescription": "The third location can be found in the near right corner of the AA gun room in the main bunker, on some rubble.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_shield_part_three_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Upgrade Steps",
+              "ImageDescription": "Complete all player(s) challenges.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_shield_part_four_one.png"
+            },
+            {
+              "ImageLabel": "Upgrade Steps",
+              "ImageDescription": "Wait for lightning to hit.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_shield_part_four_two.png"
+            },
+            {
+              "ImageLabel": "Upgrade Steps",
+              "ImageDescription": "Equip the shield while stood in the lightning, the shield will now be upgraded.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_shield_part_four_three.png"
+            }
+          ]
+        }
+      ],
+      "ShieldURL": "https://www.youtube.com/watch?v=FQ7SHBEsDig",
+      "SimonSays": false,
+      "SimonSaysSteps": null,
+      "SwordStep": false,
+      "HasSafe": false,
+      "HasBomb": false,
+      "HasValve": false,
+      "BuildableWonderWeapon": true,
+      "WonderWeaponParts": [
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part One",
+              "ImageDescription": "Get the first part located at the very back of the map, deep in the underwater section.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_kt_part_one.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part Two, Step One - Swipe for next step ",
+              "ImageDescription": "Lower the cage from one of the Labs.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_kt_part_two_one.png"
+            },
+            {
+              "ImageLabel": "Part Two, Step Two - Swipe for next step ",
+              "ImageDescription": "Lure a spider into the cage and raise the cage.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_kt_part_two_two.png"
+            },
+            {
+              "ImageLabel": "Part Two, Step Three",
+              "ImageDescription": "Collect the part from the syringe.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_kt_part_two_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part Three",
+              "ImageDescription": "This part randomly spawns on a zombie. Kill the zombie and pick up the part that it drops.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_kt_part_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Build The KT-4",
+              "ImageDescription": "Build the KT-4 in the workbench at the back of the main bunker.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_kt_part_four_one.png"
+            },
+            {
+              "ImageLabel": "Equip The KT-4",
+              "ImageDescription": "The KT-4 can now be equipped. Other players will now be able to recieve it from the box too.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_kt_part_four_two.png"
+            }
+          ]
+        }
+      ],
+      "WonderWeaponName": "KT-4",
+      "WonderWeaponURL": "https://www.youtube.com/watch?v=LXF6tgohM7s",
+      "BuildableSecondary": true,
+      "SecondaryParts": [
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part One, Location One - Swipe for next Location",
+              "ImageDescription": "The first location can be found on some boxes near the green water at Lab B.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_mask_part_one_one.png"
+            },
+            {
+              "ImageLabel": "Part One, Location Two - Swipe for next Location",
+              "ImageDescription": "The second location can be found next to the green water at Lab B.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_mask_part_one_two.png"
+            },
+            {
+              "ImageLabel": "Part One, Location Three",
+              "ImageDescription": "The third location can be found in the sideways open crate in front of the perk machine, up the metal stairs outside Lab B.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_mask_part_one_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part Two, Location One - Swipe for next Location",
+              "ImageDescription": "The first location can be found hanging at the back of the crashed plane.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_mask_part_two_one.png"
+            },
+            {
+              "ImageLabel": "Part Two, Location Two - Swipe for next Location",
+              "ImageDescription": "The second location can be found hanging at the front of the crashed plane.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_mask_part_two_two.png"
+            },
+            {
+              "ImageLabel": "Part Two, Location Three",
+              "ImageDescription": "The third location can be found on the rock, to the left of the mystery box spawn location.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_mask_part_two_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part Three, Location One - Swipe for next Location",
+              "ImageDescription": "The first location can be found on the crate next to the skull alter.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_mask_part_three_one.png"
+            },
+            {
+              "ImageLabel": "Part Three, Location Two - Swipe for next Location",
+              "ImageDescription": "The second location can be found on the crate next to the pier.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_mask_part_three_two,png"
+            },
+            {
+              "ImageLabel": "Part Three, Location Three",
+              "ImageDescription": "The third location can be found on the rock next to the VMP wall buy.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_mask_part_three_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageDescription": "The Gas Mask cannot be upgraded.",
+              "ImageURL": null
+            }
+          ]
+        }
+      ],
+      "SecondaryURL": "https://www.youtube.com/watch?v=JsTuAlJuQ2A",
+      "SecondaryName": "Gas Mask",
+      "Pack-A-PunchSteps": [
+        {
+          "ImageLabel": "Activating Pack a Punch - Step One",
+          "ImageDescription": "Obtain a bucket.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_pap_step_one.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Two",
+          "ImageDescription": "Fill the bucket with water.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_pap_step_two.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Three",
+          "ImageDescription": "Turn on the power in both Labs. This will open up the main bunker.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_pap_step_three.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Four",
+          "ImageDescription": "Take the left door at the PackAPunch machine and survive the under water hold off. You'll then be able to turn on the power.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_pap_step_four.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Five",
+          "ImageDescription": "Pick up the part that dropped while in the under water hold off.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_pap_step_five.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Six",
+          "ImageDescription": "Next take the door behind PackAPunch, and go down the flooded tunnel. The part will be on the floor within the tunnel.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_pap_step_six.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Seven",
+          "ImageDescription": "Next take the door to the right of PackAPunch. Knife all the body bags until the part drops.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_pap_step_seven.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Eight",
+          "ImageDescription": "Interact with each of the pipes surrounding PackAPunch.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_pap_step_eight.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Nine",
+          "ImageDescription": "PackAPunch will now be opened up.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/zns_pap_step_nine.png"
+        }
+      ],
+      "PackAPunchURL": "https://www.youtube.com/watch?v=wpzrgPZU1Yc",
+      "HasWisp": false,
+      "WispURL": null
+    },
+    {
+      "Name": "Gorod Krovi",
+      "Description": "The Fourth Black Ops 3 Map. Information about shield part locations, a tool for the bomb step and for the valve step.",
+      "ImageURL": "gk_mapicon.png",
+      "BuidlableShield": true,
+      "ShieldParts": [
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part One, Location One - Swipe for next Location",
+              "ImageDescription": "This part can be found on the chair next across from Juggernog perk machine.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_shield_part_one_one.png"
+            },
+            {
+              "ImageLabel": "Part One, Location Two - Swipe for next Location",
+              "ImageDescription": "The next location can be found on the truck door just down the stairs from the Juggernog perk machine.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_shield_part_one_two.png"
+            },
+            {
+              "ImageLabel": "Part One, Location Three",
+              "ImageDescription": "The final location can be found on the shelf on the left as you enter the Operations Bunker.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_shield_part_one_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part Two, Location One - Swipe for next Location",
+              "ImageDescription": "The first location can be found in between the boxes up the infirmary stairs from the Operations Bunker.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_shield_part_two_one.png"
+            },
+            {
+              "ImageLabel": "Part Two, Location Two - Swipe for next Location",
+              "ImageDescription": "The next location can be found on the bottom bunkbed situated next to the stairs.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_shield_part_two_two.png"
+            },
+            {
+              "ImageLabel": "Part Two, Location Three",
+              "ImageDescription": "The final location can be found across from the staminup perk.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_shield_part_two_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Part Three, Location One - Swipe for next Location",
+              "ImageDescription": "The first location can be found resting on some boxes in the top of the armory across from the valve.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_shield_part_three_one.png"
+            },
+            {
+              "ImageLabel": "Part Three, Location Two - Swipe for next Location",
+              "ImageDescription": "The next location can be found resting on the wall next to the walkway into Supply Depot.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_shield_part_three_two.png"
+            },
+            {
+              "ImageLabel": "Part Three, Location Three",
+              "ImageDescription": "The final location can be found resting on the wall next to the wunderfizz machine in the bottom of Armory.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_shield_part_three_three.png"
+            }
+          ]
+        },
+        {
+          "BuildablePart": [
+            {
+              "ImageLabel": "Upgrade Step One - Swipe for next Step",
+              "ImageDescription": "Get 30-50 kills kills with the shield.",
+              "ImageURL": null
+            },
+            {
+              "ImageLabel": "Upgrade Step Two - Swipe for next Step",
+              "ImageDescription": "Go to Supply Depot and shoot the writing in the roof with the shield.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_shield_part_upgrade_one.png"
+            },
+            {
+              "ImageLabel": "Upgrade Step Three - Swipe for next Step",
+              "ImageDescription": "Go to Dragon Command and shoot the writing on the wall to the left of the dragon boarding area with the shield.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_shield_part_upgrade_two.png"
+            },
+            {
+              "ImageLabel": "Upgrade Step Four - Swipe for next Step",
+              "ImageDescription": "Go to Tank Factory and shoot the writing on the robot to the right of the dragon boarding area with the shield.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_shield_part_upgrade_three.png"
+            },
+            {
+              "ImageLabel": "Upgrade Step Five - Swipe for next Step",
+              "ImageDescription": "Survive with the shield out in fire for 30-60 seconds..",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_shield_part_upgrade_four.png"
+            },
+            {
+              "ImageLabel": "Upgrade Step Six - Swipe for next Step",
+              "ImageDescription": "Place the shield in the Dead Dragons Corpse.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_shield_part_upgrade_five.png"
+            },
+            {
+              "ImageLabel": "Upgrade Step Seven",
+              "ImageDescription": "Tiamat's Maw has more durability and has a stronger attack.",
+              "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_shield_part_upgrade_six.png"
+            }
+          ]
+        }
+      ],
+      "ShieldURL": "https://www.youtube.com/watch?v=B-hjdFIQEqk&feature=youtu.be&a",
+      "SimonSays": false,
+      "SimonSaysSteps": null,
+      "SwordStep": false,
+      "HasSafe": false,
+      "HasBomb": true,
+      "HasValve": true,
+      "BuildableWonderWeapon": false,
+      "WonderWeaponSteps": null,
+      "WonderWeaponURL": null,
+      "BuildableSecondary": false,
+      "SecondaryParts": null,
+      "SecondaryURL": null,
+      "SecondaryName": null,
+      "Pack-A-PunchSteps": [
+        {
+          "ImageLabel": "Activating Pack a Punch - Step One",
+          "ImageDescription": "Turn power on.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_pap_step_one.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Two",
+          "ImageDescription": "Wait for a zombie to drop a code cylinder.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_pap_step_two.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Three",
+          "ImageDescription": "Take the cylinder to the stated location.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_pap_step_three.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Four",
+          "ImageDescription": "Call in a groph module. This will randomly drop somwehere on the map (look for the green light).",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_pap_step_four.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Five",
+          "ImageDescription": "Kill the zombies before the groph module is destroyed.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_pap_step_five.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Six",
+          "ImageDescription": "Once the groph module is charged, the network circuit part will be available to pick up.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_pap_step_six.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Seven",
+          "ImageDescription": "Repeat steps 2 - 6 two more times and take the 3 parts to the operations bunker computer.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_pap_step_seven.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Eight",
+          "ImageDescription": "Call a dragon in from one of the platforms.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_pap_step_eight.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Nine",
+          "ImageDescription": "Ride the dragon until you are kicked off.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_pap_step_nine.png"
+        },
+        {
+          "ImageLabel": "Activating Pack a Punch - Step Ten",
+          "ImageDescription": "PackAPunch will be on the ground floor.",
+          "ImageURL": "https://raw.githubusercontent.com/DannyRyman19/ZombiesGuideWebsite/master/images/gk_pap_step_ten.png"
+        }
+      ],
+      "PackAPunchURL": "https://www.youtube.com/watch?v=lrbkeUYCEAg",
+      "HasWisp": false,
+      "WispURL": null
+    }
+  ]
+}
