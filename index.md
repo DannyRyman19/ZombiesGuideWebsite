@@ -20,5 +20,3 @@ The app has only just been released and will be updated with more and more maps 
 New maps, guides and tools will be added overtime. There will also be a challenge generator that is coming *soon*.
 
 
-
-[Privacy Policy](./privacy-policy.md).
