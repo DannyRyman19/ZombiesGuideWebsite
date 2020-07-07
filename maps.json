@@ -3,7 +3,7 @@
     {
       "Name": "Shadows Of Evil",
       "Description": "The first Black Ops 3 Map. Information about shield part locations and a tool for the Sword Step.",
-      "ImageURL": "soe_mapicon.png",
+      "ImageURL": "https://zombiesguide.djr.li/images/soe_mapicon.png",
       "BuidlableShield": true,
       "ShieldParts": [
         {
@@ -198,7 +198,7 @@
     {
       "Name": "The Giant",
       "Description": "The second Black Ops 3 Map. Information about shield part locations, wonder weapon part locations and a tool for the Sword Step.",
-      "ImageURL": "giant_mapicon.png",
+      "ImageURL": "https://zombiesguide.djr.li/images/giant_mapicon.png",
       "BuidlableShield": false,
       "ShieldParts": null,
       "ShieldURL": null,
@@ -256,7 +256,7 @@
     {
       "Name": "Der Eisendrache",
       "Description": "The third Black Ops 3 Map. Information about shield part locations, ragnarok part locations, wisp locations and a tool for the Simon Says Step.",
-      "ImageURL": "de_mapicon.png",
+      "ImageURL": "https://zombiesguide.djr.li/images/de_mapicon.png",
       "BuidlableShield": true,
       "ShieldParts": [
         {
@@ -523,7 +523,7 @@
     {
       "Name": "Zetsubou No Shima",
       "Description": "The Fourth Black Ops 3 Map. Information about shield part locations, gas mask locations, PackAPunch guide and KT-4 Guide.",
-      "ImageURL": "zns_mapicon.png",
+      "ImageURL": "https://zombiesguide.djr.li/images/zns_mapicon.png",
       "BuidlableShield": true,
       "ShieldParts": [
         {
@@ -790,7 +790,7 @@
     {
       "Name": "Gorod Krovi",
       "Description": "The Fourth Black Ops 3 Map. Information about shield part locations, a tool for the bomb step and for the valve step.",
-      "ImageURL": "gk_mapicon.png",
+      "ImageURL": "https://zombiesguide.djr.li/images/gk_mapicon.png",
       "BuidlableShield": true,
       "ShieldParts": [
         {
