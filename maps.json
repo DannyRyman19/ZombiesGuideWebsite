@@ -1,8 +1,8 @@
-﻿{
+{
   "Maps": [
     {
       "Name": "Shadows Of Evil",
-      "Description": "The first Black Ops 3 Map. Information about shield part locations and a tool for the Sword Step.",
+      "Description": "The First Black Ops 3 Map. Information about shield part locations, PackAPunch Guide and a tool for the Sword Step.",
       "ImageURL": "https://zombiesguide.djr.li/images/soe_mapicon.png",
       "BuidlableShield": true,
       "ShieldParts": [
@@ -197,7 +197,7 @@
     },
     {
       "Name": "The Giant",
-      "Description": "The second Black Ops 3 Map. Information about shield part locations, wonder weapon part locations and a tool for the Sword Step.",
+      "Description": "The Second Black Ops 3 Map. PackAPunch Guide.",
       "ImageURL": "https://zombiesguide.djr.li/images/giant_mapicon.png",
       "BuidlableShield": false,
       "ShieldParts": null,
@@ -243,7 +243,7 @@
           "ImageURL": "https://zombiesguide.djr.li/images/giant_pap_step_five.png"
         },
         {
-          "ImageLabel": "Activating Pack a Punch - Step Sixe",
+          "ImageLabel": "Activating Pack a Punch - Step Six",
           "ImageDescription": "The door in front of PackAPunch will now be opened.",
           "ImageURL": "https://zombiesguide.djr.li/images/giant_pap_step_six.png"
         }
@@ -255,7 +255,7 @@
     },
     {
       "Name": "Der Eisendrache",
-      "Description": "The third Black Ops 3 Map. Information about shield part locations, ragnarok part locations, wisp locations and a tool for the Simon Says Step.",
+      "Description": "The Third Black Ops 3 Map. Information about shield part locations, PackAPunch Guide, Ragnarok part locations, wisp locations and a tool for the Simon Says and Safe Step.",
       "ImageURL": "https://zombiesguide.djr.li/images/de_mapicon.png",
       "BuidlableShield": true,
       "ShieldParts": [
@@ -789,7 +789,7 @@
     },
     {
       "Name": "Gorod Krovi",
-      "Description": "The Fourth Black Ops 3 Map. Information about shield part locations, a tool for the bomb step and for the valve step.",
+      "Description": "The Fifth Black Ops 3 Map. Information about shield part locations, PackAPunch Guide, a tool for the bomb step and valve step.",
       "ImageURL": "https://zombiesguide.djr.li/images/gk_mapicon.png",
       "BuidlableShield": true,
       "ShieldParts": [
