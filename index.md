@@ -8,7 +8,7 @@ layout: default
 Zombies guide is an app on iOS and Android that contains helpful guides and tools for all the Treyarch Call of Duty Zombies Maps.
 
 ## Where can I download the App?
-The app is available on the App Store and Google Play Store. Links coming soon...
+The app is available on the App Store and Google Play Store. Android coming soon...
 <a href="https://apps.apple.com/us/app/zombies-guide/id1518890991?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-07-08&kind=iossoftware&bubble=apple_music) no-repeat;width:135px;height:40px;"></a>
 
 ## I have an issue / want to provide feedback
