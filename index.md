@@ -9,6 +9,7 @@ Zombies guide is an app on iOS and Android that contains helpful guides and tool
 
 ## Where can I download the App?
 The app is available on the App Store and Google Play Store. Links coming soon...
+<a href="https://apps.apple.com/us/app/zombies-guide/id1518890991?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-07-08&kind=iossoftware&bubble=apple_music) no-repeat;width:135px;height:40px;"></a>
 
 ## I have an issue / want to provide feedback
 If you have any issues, questions, or just want to provide some feedback, please contact me: <support@zombiesguide.djr.li>
