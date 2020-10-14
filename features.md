@@ -1,23 +1,23 @@
 Below are all the guides and tools that are currently in the app or coming soon. If you have any suggestions for tools or guides, get in contact.
 
 **Maps**
-
+---
 ***Shadows of Evil***
 
 PackAPunch Guide
 
-Build Guides
+*Build Guides
 - Shield 
 - Apothicon Servant
 - Sword
 - Civil Protector **Coming Soon**
 
-Upgrade Guides
+*Upgrade Guides
 - Lil' Arnies **Coming Soon**
 - Apothicon Sword
 - Tripmine **Coming Soon**
 
-Side Easter Eggs
+*Side Easter Eggs
 - 'Cold Hard Cash' Song **Coming Soon**
 - 'Snakeskin Boots' Song **Coming Soon**
 - Noire Filter **Coming Soon**
@@ -26,38 +26,42 @@ Side Easter Eggs
 - Margwa Mask **Coming Soon**
 - Jump Scare **Coming Soon**
 
-Main Easter Egg Guide
+*Main Easter Egg Guide
 
-Tools
+*Tools
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nPXN_VFu6uQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 A tool to help remember the 3 symbols to unlock the swords.
 
+---
+
 ***The Giant***
 
-PackAPunch Guide
+*PackAPunch Guide
 
-Side Easter Eggs
+*Side Easter Eggs
 - Beauty of Annihilation Remix' song **Coming Soon**
 - 6th Perk Machine **Coming Soon**
 
-Main Easter Egg Guide **Coming Soon**
+* Main Easter Egg Guide **Coming Soon**
+
+---
 
 ***Der Eisendrache***
 
-PackAPunchGuide
+*PackAPunchGuide
 
-Build Guides
+*Build Guides
 - Shield
 - Bow
 - Ragnarok DG-4
 
-Upgrade Guides
+*Upgrade Guides
 - Lightning Bow
 - Void Bow **Coming Soon**
 - Fire Bow **Coming Soon**
 - Wolf Bow **Coming Soon**
 
-Side Easter Egg Guides
+*Side Easter Egg Guides
 - 'Dead Again' Song **Coming Soon**
 - 'Skeletons Everywhere' Guide **Coming Soon**
 - Panzer Claw Helmet **Coming Soon**
@@ -66,52 +70,56 @@ Side Easter Egg Guides
 - Free Mega Gobblegum **Coming Soon**
 - BRM Wallbuy **Coming Soon**
 
-Main Easter Egg Guide **Coming Soon**
+*Main Easter Egg Guide **Coming Soon**
 
-Tools 
+*Tools 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EMWIJ71NvXI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 A tool to help remember the order that the computers go in. This makes the step to much easier.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RNTu5zGvcb4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 A tool to help remember the safe combination.
 
+---
+
 ***Zetsubou No Shima***
 
-PackAPunch Guide
+*PackAPunch Guide
 
-Build Guides
+*Build Guides
 - Shield
 - Gas Mask
 - KT-4
 - Skull of Nan Sapwe **Coming Soon**
 
-Upgrade Guides
+*Upgrade Guides
 - KT-4 **Coming Soon**
 - Shield 
 - Golden Bucket **Coming Soon**
 
-Side Easter Egg Guides
+*Side Easter Egg Guides
 - Free Widow's Wine **Coming Soon**
 - 'Dead Flowers' song **Coming Soon**
 
-Main Easter Egg Guide **Coming Soon**
+*Main Easter Egg Guide **Coming Soon**
+
+---
 
 ***Gorod Krovi***
 
-PackAPunch Guide
+*PackAPunch Guide
 
-Build Guides
+*Build Guides
 - Shield
 - Dragon Network Controller
 - Dragon Strike **Coming Soon**
 - Gauntlet of Siegfried **Coming Soon**
 
-Upgrade Guides
+*Upgrade Guides
 - Shield
 - Dragon Strike **Coming Soon**
 - Dubstep Monkey Bombs **Coming Soon**
 
-Side Easter Egg Guides
+*Side Easter Egg Guides
 - Song **Coming Soon**
 - 'Ace of spades' song **Coming Soon**
 - 'Samantha's lullaby' song **Coming Soon**
@@ -119,14 +127,16 @@ Side Easter Egg Guides
 - Valkyrie Helmet **Coming Soon**
 - Dragon Wings **Coming Soon**
 
-Main Easter Egg Guide **Coming Soon*
+*Main Easter Egg Guide **Coming Soon*
 
-Tools
+*Tools
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lVFFAtv3CLM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 A tool to help you with the bomb step. You can record your voice or quickly jot down the order with a tap of a button
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ul8pzt3r_5o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 A tool for the Codex Step. Simply input your starting and ending location and the app will do the rest.
+
+---
 
 ***Revelations***
 
