@@ -10,7 +10,7 @@ PackAPunch Guide
 - Shield 
 - Apothicon Servant
 - Sword
-- Civil Protector **Coming Soon**
+- Civil Protector 
 
 *Upgrade Guides
 - Lil' Arnies **Coming Soon**
@@ -19,12 +19,12 @@ PackAPunch Guide
 
 *Side Easter Eggs
 - 'Cold Hard Cash' Song **Coming Soon**
-- 'Snakeskin Boots' Song **Coming Soon**
+- 'Snakeskin Boots' Song 
 - Noire Filter **Coming Soon**
-- Free Mega Gobblegum **Coming Soon**
-- Free 500 Points **Coming Soon**
+- Free Mega Gobblegum 
+- Free 500 Points
 - Margwa Mask **Coming Soon**
-- Jump Scare **Coming Soon**
+- Jump Scare 
 
 *Main Easter Egg Guide
 
