@@ -13,17 +13,17 @@ PackAPunch Guide
 - Civil Protector 
 
 *Upgrade Guides
-- Lil' Arnies **Coming Soon**
+- Lil' Arnies 
 - Apothicon Sword
 - Tripmine **Coming Soon**
 
 *Side Easter Eggs
-- 'Cold Hard Cash' Song **Coming Soon**
+- 'Cold Hard Cash' Song 
 - 'Snakeskin Boots' Song 
 - Noire Filter **Coming Soon**
 - Free Mega Gobblegum 
 - Free 500 Points
-- Margwa Mask **Coming Soon**
+- Margwa Mask 
 - Jump Scare 
 
 *Main Easter Egg Guide
