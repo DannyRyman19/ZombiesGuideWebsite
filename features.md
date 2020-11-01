@@ -15,12 +15,12 @@ PackAPunch Guide
 *Upgrade Guides
 - Lil' Arnies 
 - Apothicon Sword
-- Tripmine **Coming Soon**
+- Tripmine 
 
 *Side Easter Eggs
 - 'Cold Hard Cash' Song 
 - 'Snakeskin Boots' Song 
-- Noire Filter **Coming Soon**
+- Noire Filter 
 - Free Mega Gobblegum 
 - Free 500 Points
 - Margwa Mask 
@@ -111,8 +111,8 @@ A tool to help remember the safe combination.
 *Build Guides
 - Shield
 - Dragon Network Controller
-- Dragon Strike **Coming Soon**
-- Gauntlet of Siegfried **Coming Soon**
+- Dragon Strike 
+- Gauntlet of Siegfried 
 
 *Upgrade Guides
 - Shield
@@ -127,7 +127,7 @@ A tool to help remember the safe combination.
 - Valkyrie Helmet **Coming Soon**
 - Dragon Wings **Coming Soon**
 
-*Main Easter Egg Guide **Coming Soon*
+*Main Easter Egg Guide
 
 *Tools
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lVFFAtv3CLM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
