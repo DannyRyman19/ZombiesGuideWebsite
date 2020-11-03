@@ -116,16 +116,16 @@ A tool to help remember the safe combination.
 
 *Upgrade Guides
 - Shield
-- Dragon Strike **Coming Soon**
-- Dubstep Monkey Bombs **Coming Soon**
+- Dragon Strike 
+- Dubstep Monkey Bombs 
 
 *Side Easter Egg Guides
-- Song **Coming Soon**
-- 'Ace of spades' song **Coming Soon**
-- 'Samantha's lullaby' song **Coming Soon**
-- Mangler Helmet **Coming Soon**
-- Valkyrie Helmet **Coming Soon**
-- Dragon Wings **Coming Soon**
+- Song 
+- 'Ace of spades' song 
+- 'Samantha's lullaby' song 
+- Mangler Helmet
+- Valkyrie Helmet 
+- Dragon Wings 
 
 *Main Easter Egg Guide
 
